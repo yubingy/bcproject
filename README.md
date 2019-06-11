@@ -7,11 +7,10 @@ This project is developed using [react-box](https://www.trufflesuite.com/boxes/r
 
 ![image](https://github.com/yubingy/bcproject/blob/master/images/scuml.png)
 
-Simple explanationS to the above diagram:
-
-Model works like traditional database: address type in solidity for storage.
-Helper deals with existence checking.
-Main is defined with basic operation interacting with front-end side.
+Simple explanationS to the above diagram:  
+Model works like traditional database: address type in solidity for storage.  
+Helper deals with existence checking.  
+Main is defined with basic operation interacting with front-end side.  
 
 ## How to run the program
 1. install all dependencies and related toolkit
